@@ -1,2 +1,5 @@
 flask
 flask-cors
+crewai
+langchain
+langchain-google-genai
