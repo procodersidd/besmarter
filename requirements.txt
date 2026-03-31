@@ -17,3 +17,5 @@ duckduckgo-search==5.0.0
 yfinance==0.2.28
 python-dotenv==1.0.0
 asyncio
+flask
+flask-cors
